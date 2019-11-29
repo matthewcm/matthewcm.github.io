@@ -3,7 +3,6 @@ layout: post
 date: 2019-11-29
 category: Testing
 description: Blog post on Advanced Test Driven Development
-
 ---
 
 # Advanced Test Driven Development

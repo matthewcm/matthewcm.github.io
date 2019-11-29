@@ -54,6 +54,9 @@ a.active {
     width: 70vw;
     margin: 0 auto;
 }
+#blog-post .blog-content {
+    margin-top: 50px;
+}
 #blog-post .blog-content p,li {
     font-size: 20px;
 }
@@ -77,6 +80,9 @@ a.active {
 
 .pagination{
     margin-top: auto;
+}
+.pagination * {
+    text-align: center;
 }
 em {
     font-weight: 700;

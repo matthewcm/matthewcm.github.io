@@ -3,23 +3,23 @@
         <div class="blog-content col-lg-12">
             {{content}}
         </div>
-<div class="pagination col-lg-12">
+        <div class="pagination col-sm-12">
 
 
-    {% if page.previous %}
-    <div>
-        <h3>Previous</h3>
-        <p>{{page.previous.title}}</p>
-        <p><a  class="btn"  href="{{ site.baseurl }}{{page.previous.url}}">Read Post</a></p>
-    </div>
-    {% endif %}
-    {% if page.next %}
-    <div>
-        <h3>Up Next</h3>
-        <p>{{page.next.title}}</p>
-        <p><a  class="btn"  href="{{ site.baseurl }}{{page.next.url}}">Read Post</a></p>
-    </div>
-    {% endif %}
-</div>
+            {% if page.previous %}
+            <div class="col-sm-4 col-sm-offset-2">
+                <h3>Previous</h3>
+                <p>{{page.previous.title}}</p>
+                <p><a  class="btn btn-primary"  href="{{ site.baseurl }}{{page.previous.url}}">Read Post</a></p>
+            </div>
+            {% endif %}
+            {% if page.next %}
+            <div class="col-sm-4">
+                <h3>Up Next</h3>
+                <p>{{page.next.title}}</p>
+                <p><a  class="btn btn-primary"  href="{{ site.baseurl }}{{page.next.url}}">Read Post</a></p>
+            </div>
+            {% endif %}
+        </div>
     </div>
 </section>
