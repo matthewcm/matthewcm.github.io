@@ -1,0 +1,23 @@
+
+<!-- Portfolio Grid Section -->
+<section id="blog">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Blog</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 text-center">
+            {% for post in site.posts %}
+            <div class="project">
+                <h3>{{ post.title }}</h3>
+                {{ post.description }}
+                <a href="{{post.url}}"> See more </a>
+            </div>
+            {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
