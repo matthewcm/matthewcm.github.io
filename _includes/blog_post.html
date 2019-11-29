@@ -1,6 +1,11 @@
 <section id="blog">
     <div class="container">
-<div class="c-pagination">
+        <div class="blog-content col-lg-12">
+            {{content}}
+        </div>
+<div class="pagination col-lg-12">
+
+
     {% if page.previous %}
     <div>
         <h3>Previous</h3>
@@ -8,8 +13,6 @@
         <p><a  class="btn"  href="{{ site.baseurl }}{{page.previous.url}}">Read Post</a></p>
     </div>
     {% endif %}
-
-    {{content}}
     {% if page.next %}
     <div>
         <h3>Up Next</h3>

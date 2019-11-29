@@ -4,7 +4,7 @@ email: thecodermatt@protonmail.com
 url: https://matthewcm.github.io
 description: "My personal blog"
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Digital Artist - Blogger"
+skills: "Web Developer - Digital Artist - Tech Blogger"
 meta_author: Castrillon-Madrigal Matthew
 
 collections:
@@ -20,14 +20,15 @@ bing_verify:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fffe00
+  primary: fbde44ff
   primary-rgb: "24,88,156"
-  secondary: 7100ff
-  secondary-dark: 4e00ff
+  secondary: f65058ff
+  secondary-dark: 28334aff
 
 # Footer settings
 footer:
   social: Around the Web
+  copyright: Matthew Castrillon-Madrigal
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
