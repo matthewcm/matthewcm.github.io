@@ -2,7 +2,7 @@
 title: Matthew Castrillon-Madrigal
 email: thecodermatt@protonmail.com
 url: https://matthewcm.github.io
-description: "Matthew Castrillon-Madrigal's Personal Blog"
+description: "Matthew Castrillon-Madrigal's Personal Portfolio"
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Digital Artist - Tech Blogger"
 meta_author: Castrillon-Madrigal Matthew
@@ -16,6 +16,8 @@ google_verify:
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
+
+favicon: img/favicon.png
 
 
 # Color settings (hex-codes without the leading hash-tag)
