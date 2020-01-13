@@ -24,7 +24,7 @@ favicon: /img/favicon.png
 color:
   primary: ffcc00ff
   primary-rgb: "24,88,156"
-  secondary: 086788ff
+  secondary:  086788ff
   secondary-dark: 2B2D42ff
 
 # Footer settings
