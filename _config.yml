@@ -22,10 +22,10 @@ favicon: /img/favicon.png
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fbde44ff
+  primary: ffcc00ff
   primary-rgb: "24,88,156"
-  secondary: f65058ff
-  secondary-dark: 28334aff
+  secondary: 086788ff
+  secondary-dark: 2B2D42ff
 
 # Footer settings
 footer:
