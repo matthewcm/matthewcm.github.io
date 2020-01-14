@@ -36,6 +36,14 @@ a.active {
     width: 250px;
 }
 
+#blog {
+    color: black;
+}
+
+#blog p {
+    margin-bottom: 2em;
+}
+
 #blog h2 {
     padding: 2em 0 .75em 0;
 }
