@@ -1,9 +1,9 @@
 # Site settings
 title: Matthew Castrillon-Madrigal
 email: thecodermatt@protonmail.com
-url: https://matthewcm.github.io
-description: "Matthew Castrillon-Madrigal's Personal Portfolio"
-keywords: "your keywords, separated by commas"
+url: https://www.matthewcm.com
+description: "Matthew Castrillon-Madrigal's Personal Portfolio. This is a site to share various blog posts and projects"
+keywords: "tech, blog, developer, matthew, react, javascript, testing"
 skills: "Web Developer - Digital Artist - Tech Blogger"
 meta_author: Castrillon-Madrigal Matthew
 
@@ -35,6 +35,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/matthewcm2020
   - title: twitter
     url: http://twitter.com/matthewC_M
   - title: github
@@ -44,3 +46,5 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+plugins:
+  - jekyll-seo-tag
