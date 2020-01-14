@@ -66,7 +66,7 @@ a.active {
 }
 
 #blog-post  {
-    max-width: 50em;
+    max-width: 70em;
     margin: 0 auto;
     color: black;
 }
@@ -95,6 +95,9 @@ a.active {
     }
     #blog-post .blog-content p,li {
         font-size: 20px;
+    }
+    .pagination{
+        font-size: 0.8em;
     }
 }
 
