@@ -2,7 +2,7 @@
 layout: post
 date: 2019-11-29
 category: Testing
-description: Blog post on Advanced Test Driven Development
+description: Advanced Test Driven Development. The idea is that, with enough whiteboarding + planning, you will be able to develop your application the first time round.
 ---
 
 # Advanced Test Driven Development

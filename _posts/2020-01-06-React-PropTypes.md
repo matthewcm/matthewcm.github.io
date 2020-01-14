@@ -2,7 +2,8 @@
 layout: post
 date: 2020-01-12
 category: React
-description: Learn about React Proptypes
+description: It's an extra bit of validation placed upon the props of a React Component. You place the exact type of props you expect to receive as props from your component.
+
 ---
  
 

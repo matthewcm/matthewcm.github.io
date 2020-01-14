@@ -36,17 +36,28 @@ a.active {
     width: 250px;
 }
 
-#blog {
-    color: black;
-}
 
-#blog p {
-    margin-bottom: 2em;
-}
 
-#blog h2 {
+#blogIndex h2 {
     padding: 2em 0 .75em 0;
 }
+.blog-card {
+    margin: 1em;
+    border: 2px solid #{{site.color.secondary}} ;
+    padding: 2em;
+    border-radius: 1em;
+}
+.blog-card .content {
+    width: 40em;
+    margin: 0 auto;
+    padding: 1em;
+
+}
+
+.blog-card span {
+    margin: 5px;
+}
+
 #blog-post h1 {
     padding: 2em 0 .75em 0;
 }
@@ -57,12 +68,17 @@ a.active {
 #blog-post  {
     max-width: 50em;
     margin: 0 auto;
+    color: black;
 }
 #blog-post .blog-content {
     margin-top: 50px;
 }
 #blog-post .blog-content p,li {
     font-size: 20px;
+}
+
+#blog-post .blog-content p {
+    margin-bottom: 2em;
 }
 
 #blog-post .blog-content img {
@@ -78,7 +94,7 @@ a.active {
         width: 95vw;
     }
     #blog-post .blog-content p,li {
-        font-size: 15px;
+        font-size: 20px;
     }
 }
 
@@ -91,6 +107,9 @@ a.active {
 em {
     font-weight: 700;
 }
+h1 {
+    text-align: center;
+}
 
 h1,
 h2,
@@ -101,7 +120,6 @@ h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-    text-align: center;
 }
 
 hr.star-light,

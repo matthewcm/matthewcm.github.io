@@ -1,6 +1,6 @@
 
 <!-- Portfolio Grid Section -->
-<section id="blog">
+<section id="blogIndex">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -9,17 +9,20 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-12 text-center">
+            <div class="col-lg-6 col-lg-offset-3 text-center">
                 {% for post in site.posts %}
-                <div class="project">
+                <div class="blog-card">
                     <h3>{{ post.title }}</h3>
-                    <a href="{{post.url}}">
-                        {{ post.description }}
-                    </a>
-                    <p> 
-                        <span> Posted at: {{post.dates}} </span>
+                    <p>
+                        <span> Posted at: {{post.date| date: "%-d %B %Y" }} </span>
                         <span> Category: {{post.category}} </span>
                     </p>
+                    <p class="content">
+                        {{post.description }}
+                    </p>
+                    <a href="{{post.url}}" class="btn btn-md btn-primary ">
+                        Read More
+                    </a>
                 </div>
                 {% endfor %}
             </div>

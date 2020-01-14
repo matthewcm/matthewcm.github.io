@@ -2,7 +2,7 @@
 layout: post
 date: 2019-11-14
 category: conference 
-description: Blog post about Big Data Ldn conference
+description: The talks were great and visiting each of the individual booths was incredibly valuable. I gained a wider scope of what is available in the market of AI + ML, data cleaning and data analytics technologies.
 ---
 
 # BIG DATA LDN

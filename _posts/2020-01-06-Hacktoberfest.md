@@ -2,7 +2,7 @@
 layout: post
 date: 2020-01-06
 category: Community
-description: Learn about Hacktoberfest!
+description: Open source is the future. A diversity of people contributing to a project far exceeds the minds of few. Open source grants people freedom.
 ---
  
 

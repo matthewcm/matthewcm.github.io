@@ -2,12 +2,12 @@
 layout: post
 date: 2020-01-02
 category: Tech 
-description: Learn about the benefits of using typescript.
+description: The typed JavaScript language that brings extra documentation with the code that you write. The typed documentation is so good that it is possible to auto-generate a beautiful PDF of documentation of the code with links to each connected component and laid out superbly with very little work.
 ---
 
 # TypeScript
 
-The typed JavaScript language that  brings extra documentation with the code that you write.
+The typed JavaScript language that brings extra documentation with the code that you write.
 
 Typed, so writing code requires extra thought, which in turns creates well thought out, cleaner code.
 

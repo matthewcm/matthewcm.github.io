@@ -2,7 +2,8 @@
 layout: post
 date: 2019-12-04
 category: Technology 
-description: Web Pages Vs. Web Applications
+description: Web Pages Vs. Web Applications. They are React Frameworks that create blazing fast sites. Creates Single Page Apps with ease. Gives you great SEO. Amazingly documented. React sites has never been easier.
+
 ---
 
 

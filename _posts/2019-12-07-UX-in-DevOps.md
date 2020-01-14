@@ -2,7 +2,7 @@
 layout: post
 date: 2019-12-07
 category: conference 
-description: UX in DevOps 
+description: Currently, there is a big miss with current web design. Lots of modern web design provided catastrophic support for. The developers are not their own users. They do not share the same background, culture and skillset. 
 ---
 
 # UX with DevOps
