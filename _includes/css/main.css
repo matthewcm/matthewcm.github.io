@@ -48,10 +48,9 @@ a.active {
     border-radius: 1em;
 }
 .blog-card .content {
-    width: 40em;
-    margin: 0 auto;
-    padding: 1em;
-
+    height: 4em;
+    overflow: hidden;
+    margin: 1em;
 }
 
 .blog-card span {
@@ -65,6 +64,10 @@ a.active {
     padding: 2em 0 .75em 0;
 }
 
+p, li {
+    font-size: 0.9rem;
+}
+
 #blog-post  {
     max-width: 70em;
     margin: 0 auto;
@@ -73,7 +76,7 @@ a.active {
 #blog-post .blog-content {
     margin-top: 50px;
 }
-#blog-post .blog-content p,li {
+#blog-post .blog-content li {
     font-size: 20px;
 }
 
@@ -92,9 +95,6 @@ a.active {
 @media only screen and (max-width: 500px) {
     #blog-post {
         width: 95vw;
-    }
-    #blog-post .blog-content p,li {
-        font-size: 20px;
     }
     .pagination{
         font-size: 0.8em;
