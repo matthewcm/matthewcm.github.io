@@ -5,11 +5,39 @@ category: Tech
 description: Learn about the developer life on the go.
 ---
  
-# Developing on the go.
+# Commuter Life
 
-Android needed for offline developing
 
-iOS can SSH into a Linux machine.
+This blog is for everyone who commutes on a regular, those go on holidays frequently, those that want to be able to unleash their mind, and be creative with your programming anywhere.
+
+Laptops are getting lighter and lighter, but if you are like me, just a tad bit too big to bring with you **everywhere.** If you are going to a social event, do you really want to lug around a hefty bag with your laptop?
+
+### Power of the smartphone
+
+Smartphones are amazing, and offer an unlimited amount of creative and educational power. I enjoy learning and being creative. Learning and creating offers so much more reward than the instant gratification you receive by playing mobile games; developed with addictivity in mind; destroys your phone's battery life; riddles you with adverts every few minutes.
+
+Honestly, the majority of mobile games infuriate me. The same goes for social media, I try to limit my social media usage, I mainly use them to keep in touch with hobbies, follow tech blogs, as well as maintain social life. _It's quite a dependency for young people unfortunately._
+
+We have the power of all the worlds knowledge in our hands, and the ability to build on top.
+
+
+### How I can use my smartphone?
+
+Android:
+
+* If you are on an android device, you already have an entire linux operating system at your fingertips, android phones are highly customisable, and highly versatile. Without even rooting your android device, you can install a Linux terminal with **Termux** , (~95% parity with a desktop linux machine) it is entirely possible to even set up a **window manager**, however making it a pleasant experience is difficult.
+
+iOS:
+
+Apple devices are a lot trickier, apple really hides a lot of their system architecture on their phones neccessary to run any type of commands. Some scripting is possible as an in house feature with **Shortcuts**, I personally use this to automate a few of my common web tasks, as I am able to do light javascript scripting. Also, surprisingly apple devices support Python development very well, so if you are a python developer, happy days.
+
+Both:
+
+Internet is gaining far more accessibily, there are hotspots everywhere, and 3G/4G is mostly everywhere. Online, there are a number of available web based IDEs, and full programming environments, even code sandboxes for front end web devs. Also, you can even SSH/Remote desktop into your personal computer, accesss 
+
+
+
+Android needed for offline developing. iOS can SSH into a Linux machine.
 
 
 Both can remote desktop a pc , which will have entire desktop experience, as long as you have WiFi.
@@ -18,11 +46,6 @@ This is quite a niche topic, but a topic I believe that will grow, especially wi
 
 Right let's get to it.
 
-This blog is for everyone who commutes on a regular, those go on holidays frequently, those that want to be able to unleash their mind, and be creative with your programming anywhere.
-
-Laptops are getting lighter and lighter, but if you are like me, just a tad bit too big to bring with you everywhere. If you are going to a social event, do you really want to lug around a hefty bag with your laptop?
-
-Smartphones are amazing, and offer an unlimited amount of creative and educational power. I enjoy learning and being creative so much more than the instant gratification you receive by playing mobile games that are developed in such a way to encourage you to spend longer on their apps, destroy your phone's battery life, riddle you with adverts every few minutes. Honestly, the majority of them infuriate me. The same goes for social media, I try to limit my social media usage, I mainly use them to keep in touch with hobbies, follow tech blogs, as well as maintain social life, it's quite a dependency for young people unfortunately. 
 
 
 Anyway.
