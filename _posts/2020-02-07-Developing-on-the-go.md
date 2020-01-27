@@ -35,21 +35,7 @@ Both:
 
 Internet is gaining far more accessibily, there are hotspots everywhere, and 3G/4G is mostly everywhere. Online, there are a number of available web based IDEs, and full programming environments, even code sandboxes for front end web devs. Also, you can even SSH/Remote desktop into your personal computer, accesss 
 
-
-
-Android needed for offline developing. iOS can SSH into a Linux machine.
-
-
-Both can remote desktop a pc , which will have entire desktop experience, as long as you have WiFi.
-
-This is quite a niche topic, but a topic I believe that will grow, especially with how powerful our mobile devices are becoming, and how we pretty much have entire desktop power in the palm of our hands.
-
-Right let's get to it.
-
-
-
-Anyway.
-
+### Android
 
 Android, it runs on a modified version of Linux, so the kernel strongly supports Linux emulation, woohoo. Android phones can be tinkered with and modified to your heart's content. (if you know what you are doing)
 
@@ -67,10 +53,9 @@ Also, I am not a mobile developer, but I can create Command Line Programs with e
 
 I very much recommend creating projects that you are genuinely interested in, not just another Todo list.
 
+### IOS
 
-For IOS. I have to say, I am sorry. There is not really much you can do offline. Apple have really closed off a lot their devices have the potential for. I was deeply disappointed when I bought myself an iPad.
-
-But, with anything, there is a solution. This solution also applies to Android too, in addition). With an internet connection you are able to SSH into any machine, so you can still have the power of an entire Linux machine at your palm. You can also, remote desktop into your home computer via your device. You will be amazed at how powerful this now makes your device (performance may vary on device + internet speeds).
+ With an internet connection you are able to SSH into any machine, so you can still have the power of an entire Linux machine at your palm. You can also, remote desktop into your home computer via your device. You will be amazed at how powerful this now makes your device (performance may vary on device + internet speeds).
 
 With remote desktop you can view your entire desktop windows. So all your desktop exclusive apps, are now available with just a bit of WiFi, and leaving your computer on, which may not be what you want to do every day, but useful when you know you may need to access files, or programs remotely.
 
@@ -80,6 +65,7 @@ With how available with WiFi is now, as well as 4G/5G, accessing these alternati
 
 On IOS, if are a python developer, you will be glad that Python works via apps such an Pythonista, Apple has not entirely closed the doors on developers.
 
+### Conclusion
 
 I hope you enjoyed the blog. Maybe I am the only one crazy enough to program on my phone, or play CLI games on my phone. But perhaps, a few of you may be interested.
 
